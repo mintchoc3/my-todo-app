@@ -2,3 +2,4 @@ sprint
 sleep
 jog
 crawl
+fly
